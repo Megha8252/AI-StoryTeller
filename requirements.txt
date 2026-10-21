@@ -1,3 +1,5 @@
 streamlit
 gTTS
 reportlab
+torch
+transformers
