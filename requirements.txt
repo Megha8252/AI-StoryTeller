@@ -3,3 +3,5 @@ gTTS
 reportlab
 torch
 transformers
+google-generativeai
+
